@@ -1,13 +1,12 @@
 import discord
-from spellchecker import SpellChecker
 from num2words import num2words
+import unidecode
 
 intents = discord.Intents.default()
 intents.presences = True
 intents.members = True
 client = discord.Client(intents=intents)
 
-spell = SpellChecker()
 cities = []
 
 voting = False
@@ -24,7 +23,6 @@ async def on_ready():
 	with open("cities.txt") as f:
 		for line in f:
 			cities.append(line.strip())
-	spell.known(cities) # Add cities to the spellchecker
 
 @client.event
 async def on_message(message):
@@ -48,7 +46,9 @@ async def on_message(message):
 
 		if focus_channel and message.channel.id == focus_channel:
 			if message.content.startswith("!newround"):
-				if voting: return
+				if voting:
+					print("Voting already in progress")
+					return
 				voting = True
 				print("New round started")
 				await message.channel.send("Starting a new round! Please vote.")
@@ -56,9 +56,12 @@ async def on_message(message):
 				return
 			
 			if message.content.startswith("!endround"):
-				if not voting: return
+				if not voting:
+					print("No round in progress")
+					return
 				voting = False
 				print("Round ended")
+
 				# Get the top 3 votes
 				top_votes = getTopVotes(3)
 				await message.channel.send("Did you vote? Well, it's too late now. The round ended.")
@@ -66,7 +69,7 @@ async def on_message(message):
 				response = "**The top 3 votes were:**\n"
 				for i in range(len(top_votes)):
 					response += f":{num2words(i+1)}:. {top_votes[i]['title']} with {top_votes[i]['count']} votes\n"
-				await message.channel.send(f"**The top 3 votes are**:\n1️⃣ {top_votes[0]['title']} ({top_votes[0]['count']} votes)\n2️⃣ {top_votes[1]['title']} ({top_votes[1]['count']} votes)\n3️⃣ {top_votes[2]['title']} ({top_votes[2]['count']} votes)")
+				await message.channel.send(response)
 				return
 
 	if focus_channel and voting and message.channel.id == focus_channel:
@@ -126,18 +129,16 @@ def getTopVotes(num):
 
 def sanitizeVote(string):
 	string = " ".join(string.content.lower().split()) # Lower and remove extra spaces
-	# Remove accents
-	string = string.replace("é", "e").replace("è", "e").replace("ê", "e").replace("à", "a").replace("â", "a").replace("ç", "c").replace("ô", "o").replace("î", "i").replace("û", "u")
+	string = unidecode.unidecode(string) # Remove accents
 	string = "".join(filter(str.isalnum, string)) # Remove non-alphanumeric characters
 	string = string.capitalize() # Capitalize first letter
+	string = string.replace("-", "") # Remove dashes
 	return string
 
 def isCity(string):
-	prediction = spell.correction(string)
-	if prediction in cities:
-		return prediction
-	else:
-		return False
+	if string in cities:
+		return string
+	return False
 
 if __name__ == '__main__':
 	client.run(TOKEN)
