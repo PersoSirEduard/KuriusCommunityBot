@@ -1,4 +1,5 @@
 import pandas as pd
+import unidecode
 
 def sanitizeVote(string):
 	string = " ".join(string.lower().split()) # Lower and remove extra spaces
@@ -9,11 +10,11 @@ def sanitizeVote(string):
 	return string
 
 df = pd.read_csv('canadacities.csv')
-df = df["city"]
+df = df["city_ascii"]
 
 f = open("cities.txt", "w")
 for city in df.values:
-    f.write(sanitizeVote(city) + "\n")
+    f.write(city + "\n")
 f.close()
 
 

@@ -6,7 +6,7 @@ Edmonton
 Ottawa
 Mississauga
 Winnipeg
-Quebec
+Quebec City
 Hamilton
 Brampton
 Surrey
@@ -16,8 +16,8 @@ Halifax
 London
 Victoria
 Markham
-Stcatharines
-Niagarafalls
+St. Catharines
+Niagara Falls
 Vaughan
 Gatineau
 Windsor
@@ -26,7 +26,7 @@ Longueuil
 Burnaby
 Regina
 Richmond
-Richmondhill
+Richmond Hill
 Oakville
 Burlington
 Barrie
@@ -37,7 +37,7 @@ Levis
 Kelowna
 Abbotsford
 Coquitlam
-Troisrivieres
+Trois-Rivieres
 Guelph
 Cambridge
 Whitby
@@ -46,62 +46,62 @@ Langley
 Saanich
 Terrebonne
 Milton
-Stjohns
+St. John's
 Moncton
-Thunderbay
+Thunder Bay
 Dieppe
 Waterloo
 Delta
 Chatham
-Reddeer
+Red Deer
 Kamloops
 Brantford
-Capebreton
+Cape Breton
 Lethbridge
-Saintjeansurrichelieu
+Saint-Jean-sur-Richelieu
 Clarington
 Pickering
 Nanaimo
 Sudbury
-Northvancouver
+North Vancouver
 Brossard
 Repentigny
 Newmarket
 Chilliwack
-Whiterock
-Mapleridge
+White Rock
+Maple Ridge
 Peterborough
-Kawarthalakes
-Princegeorge
-Saultstemarie
+Kawartha Lakes
+Prince George
+Sault Ste. Marie
 Sarnia
-Woodbuffalo
-Newwestminster
+Wood Buffalo
+New Westminster
 Chateauguay
-Saintjerome
+Saint-Jerome
 Drummondville
-Saintjohn
+Saint John
 Caledon
-Stalbert
+St. Albert
 Granby
-Medicinehat
-Grandeprairie
-Stthomas
+Medicine Hat
+Grande Prairie
+St. Thomas
 Airdrie
-Haltonhills
-Sainthyacinthe
-Lacbrome
-Portcoquitlam
+Halton Hills
+Saint-Hyacinthe
+Lac-Brome
+Port Coquitlam
 Fredericton
 Blainville
 Aurora
 Welland
-Northbay
+North Bay
 Beloeil
 Belleville
 Mirabel
 Shawinigan
-Dollarddesormeaux
+Dollard-des-Ormeaux
 Brandon
 Rimouski
 Cornwall
@@ -110,103 +110,103 @@ Georgina
 Victoriaville
 Vernon
 Duncan
-Sainteustache
-Quintewest
+Saint-Eustache
+Quinte West
 Charlottetown
 Mascouche
-Westvancouver
-Salaberrydevalleyfield
-Rouynnoranda
+West Vancouver
+Salaberry-de-Valleyfield
+Rouyn-Noranda
 Timmins
-Soreltracy
-Newtecumseth
+Sorel-Tracy
+New Tecumseth
 Woodstock
 Boucherville
 Mission
-Vaudreuildorion
+Vaudreuil-Dorion
 Brant
 Lakeshore
 Innisfil
-Princealbert
-Langfordstation
-Bradfordwestgwillimbury
-Campbellriver
-Sprucegrove
-Moosejaw
+Prince Albert
+Langford Station
+Bradford West Gwillimbury
+Campbell River
+Spruce Grove
+Moose Jaw
 Penticton
-Portmoody
+Port Moody
 Leamington
-Eastkelowna
-Cotesaintluc
-Valdor
-Owensound
+East Kelowna
+Cote-Saint-Luc
+Val-d'Or
+Owen Sound
 Stratford
 Lloydminster
-Pointeclaire
+Pointe-Claire
 Orillia
 Alma
 Orangeville
-Forterie
-Lasalle
-Saintejulie
+Fort Erie
+LaSalle
+Sainte-Julie
 Leduc
-Northcowichan
+North Cowichan
 Chambly
 Okotoks
-Septiles
-Centrewellington
-Saintconstant
+Sept-Iles
+Centre Wellington
+Saint-Constant
 Grimsby
 Boisbriand
-Conceptionbaysouth
-Saintbrunodemontarville
-Saintetherese
+Conception Bay South
+Saint-Bruno-de-Montarville
+Sainte-Therese
 Cochrane
-Thetfordmines
+Thetford Mines
 Courtenay
 Magog
 Whitehorse
 Woolwich
-Clarencerockland
-Fortsaskatchewan
-Eastgwillimbury
+Clarence-Rockland
+Fort Saskatchewan
+East Gwillimbury
 Lincoln
-Laprairie
+La Prairie
 Tecumseh
-Mountpearlpark
+Mount Pearl Park
 Amherstburg
-Saintlambert
+Saint-Lambert
 Brockville
 Collingwood
 Scugog
 Kingsville
-Baiecomeau
+Baie-Comeau
 Paradise
 Uxbridge
 Essa
 Candiac
-Oromedonte
+Oro-Medonte
 Varennes
-Strathroycaradoc
-Wasagabeach
-Newglasgow
+Strathroy-Caradoc
+Wasaga Beach
+New Glasgow
 Wilmot
 Essex
-Fortstjohn
+Fort St. John
 Kirkland
-Lassomption
+L'Assomption
 Westmount
-Saintlazare
+Saint-Lazare
 Chestermere
 Huntsville
-Cornerbrook
+Corner Brook
 Riverview
 Lloydminster
 Joliette
 Yellowknife
 Squamish
-Montroyal
-Riviereduloup
+Mont-Royal
+Riviere-du-Loup
 Cobourg
 Cranbrook
 Beaconsfield
@@ -214,45 +214,45 @@ Springwater
 Dorval
 Thorold
 Camrose
-Southfrontenac
-Pittmeadows
-Portcolborne
+South Frontenac
+Pitt Meadows
+Port Colborne
 Quispamsis
-Montsainthilaire
+Mont-Saint-Hilaire
 Bathurst
-Saintaugustindedesmaures
-Oakbay
-Saintemarthesurlelac
-Salmonarm
-Portalberni
+Saint-Augustin-de-Desmaures
+Oak Bay
+Sainte-Marthe-sur-le-Lac
+Salmon Arm
+Port Alberni
 Esquimalt
-Deuxmontagnes
+Deux-Montagnes
 Miramichi
-Niagaraonthelake
-Saintlinlaurentides
+Niagara-on-the-Lake
+Saint-Lin--Laurentides
 Beaumont
-Middlesexcentre
+Middlesex Centre
 Inverness
-Stonyplain
+Stony Plain
 Petawawa
 Pelham
 Selwyn
 Loyalist
 Midland
 Colwood
-Centralsaanich
-Saintecatherine
-Porthope
-Lanciennelorette
-Saintbasilelegrand
-Swiftcurrent
+Central Saanich
+Sainte-Catherine
+Port Hope
+L'Ancienne-Lorette
+Saint-Basile-le-Grand
+Swift Current
 Edmundston
 Russell
-Northgrenville
+North Grenville
 Yorkton
 Tracadie
 Bracebridge
-Greaternapanee
+Greater Napanee
 Tillsonburg
 Steinbach
 Hanover
@@ -260,72 +260,72 @@ Terrace
 Springfield
 Gaspe
 Kenora
-Coldlake
+Cold Lake
 Summerside
 Comox
-Sylvanlake
+Sylvan Lake
 Pincourt
-Westlincoln
+West Lincoln
 Matane
 Brooks
-Sainteannedesplaines
-Westnipissingnipissingouest
+Sainte-Anne-des-Plaines
+West Nipissing / Nipissing Ouest
 Rosemere
 Mistassini
-Grandfalls
+Grand Falls
 Clearview
-Stclair
+St. Clair
 Canmore
-Northbattleford
+North Battleford
 Pembroke
-Montlaurier
+Mont-Laurier
 Strathmore
-Saugeenshores
+Saugeen Shores
 Thompson
 Lavaltrie
-Highriver
+High River
 Severn
-Saintesophie
-Saintcharlesborromee
-Portagelaprairie
-Thamescentre
-Mississippimills
-Powellriver
-Southglengarry
-Northperth
+Sainte-Sophie
+Saint-Charles-Borromee
+Portage La Prairie
+Thames Centre
+Mississippi Mills
+Powell River
+South Glengarry
+North Perth
 Mercier
-Southstormont
-Saintcolomban
+South Stormont
+Saint-Colomban
 Lacombe
 Sooke
-Dawsoncreek
-Lakecountry
-Trenthills
-Saintemarie
-Guelpheramosa
+Dawson Creek
+Lake Country
+Trent Hills
+Sainte-Marie
+Guelph/Eramosa
 Truro
 Amos
-Thenationlanation
+The Nation / La Nation
 Ingersoll
 Winkler
 Wetaskiwin
-Centralelgin
+Central Elgin
 Lachute
-Westgrey
+West Grey
 Parksville
 Cowansville
 Becancour
 Gravenhurst
-Pertheast
-Princerupert
+Perth East
+Prince Rupert
 Prevost
-Sainteadele
+Sainte-Adele
 Kentville
 Beauharnois
-Lesilesdelamadeleine
-Wellingtonnorth
-Standrews
-Carletonplace
+Les Iles-de-la-Madeleine
+Wellington North
+St. Andrews
+Carleton Place
 Whistler
 Brighton
 Tiny
@@ -334,930 +334,930 @@ Sidney
 Rothesay
 Brock
 Summerland
-Valdesmonts
+Val-des-Monts
 Tache
 Montmagny
 Erin
 Kincardine
-Northdundas
+North Dundas
 Wellesley
 Estevan
-Northsaanich
+North Saanich
 Warman
-Latuque
+La Tuque
 Norwich
 Meaford
-Adjalatosorontio
-Hamiltontownship
-Stclements
-Saintamable
+Adjala-Tosorontio
+Hamilton Township
+St. Clements
+Saint-Amable
 Weyburn
-Southdundas
-Lileperrot
-Notredamedelileperrot
-Williamslake
-Elliotlake
+South Dundas
+L'Ile-Perrot
+Notre-Dame-de-l'Ile-Perrot
+Williams Lake
+Elliot Lake
 Cantley
 Nelson
-Lambtonshores
+Lambton Shores
 Mapleton
-Georgianbluffs
+Georgian Bluffs
 Rawdon
 Campbellton
-Viewroyal
+View Royal
 Coldstream
 Chester
 Queens
 Selkirk
-Saintfelicien
+Saint-Felicien
 Hawkesbury
 Roberval
-Sainteagathedesmonts
-Northdumfries
-Rideaulakes
+Sainte-Agathe-des-Monts
+North Dumfries
+Rideau Lakes
 Sechelt
-Northglengarry
-Southhuron
+North Glengarry
+South Huron
 Marieville
 Tay
-Temiskamingshores
+Temiskaming Shores
 Hinton
-Saintsauveur
+Saint-Sauveur
 Quesnel
-Elizabethtownkitley
+Elizabethtown-Kitley
 Morinville
-Greyhighlands
+Grey Highlands
 Stratford
-Alfredandplantagenet
-Monttremblant
+Alfred and Plantagenet
+Mont-Tremblant
 Martensville
-Saintraymond
+Saint-Raymond
 Amherst
 Ramara
-Boisdesfilion
-Leedsandthethousandislands
+Bois-des-Filion
+Leeds and the Thousand Islands
 Carignan
 Brockton
-Laurentianvalley
-Eaststpaul
+Laurentian Valley
+East St. Paul
 Lorraine
-Saintejulienne
+Sainte-Julienne
 Blackfalds
 Malahide
 Oromocto
 Olds
-Huroneast
+Huron East
 Stanley
 Penetanguishene
-Qualicumbeach
-Notredamedesprairies
-Westperth
-Cavanmonaghan
+Qualicum Beach
+Notre-Dame-des-Prairies
+West Perth
+Cavan Monaghan
 Arnprior
-Smithsfalls
-Pontrouge
+Smiths Falls
+Pont-Rouge
 Champlain
 Coaticook
 Minto
 Morden
 Mono
-Cormanparkno344
+Corman Park No. 344
 Ladysmith
 Bridgewater
 Dauphin
-Otterburnpark
+Otterburn Park
 Taber
-Southbrucepeninsula
+South Bruce Peninsula
 Edson
 Farnham
 Kapuskasing
-Lamalbaie
+La Malbaie
 Renfrew
 Coaldale
-Portugalcovestphilips
+Portugal Cove-St. Philip's
 Zorra
 Kitimat
 Shelburne
-Happyvalley
-Sainthippolyte
+Happy Valley
+Saint-Hippolyte
 Castlegar
-Churchpoint
+Church Point
 Drumheller
-Kirklandlake
+Kirkland Lake
 Argyle
 Torbay
-Lapeche
+La Peche
 Banff
 Innisfail
 Nicolet
 Rockwood
-Drummondnorthelmsley
+Drummond/North Elmsley
 Dryden
 Iqaluit
-Fortfrances
-Lasarre
+Fort Frances
+La Sarre
 Trail
 Chandler
-Stonemills
+Stone Mills
 Hanover
-Southwestoxford
-Actonvale
+South-West Oxford
+Acton Vale
 Bromont
 Beckwith
 Goderich
-Plymptonwyoming
-Centralhuron
+Plympton-Wyoming
+Central Huron
 Rigaud
 Louiseville
 Chibougamau
 Aylmer
 Delson
 Kimberley
-Blandfordblenheim
+Blandford-Blenheim
 Bayham
 Augusta
 Puslinch
 Beauport
-Saintremi
-Stmarys
-Draytonvalley
+Saint-Remi
+St. Marys
+Drayton Valley
 Ponoka
-Labradorcity
+Labrador City
 Donnacona
 Southgate
-Mcnabbraeside
+McNab/Braeside
 Macdonald
 Hampstead
-Baiesaintpaul
+Baie-Saint-Paul
 Merritt
 Bluewater
-Eastzorratavistock
+East Zorra-Tavistock
 Brownsburg
-Stonehamettewkesbury
+Stoneham-et-Tewkesbury
 Asbestos
-Huronkinloss
-Coteaudulac
-Thebluemountains
-Whitewaterregion
-Edwardsburghcardinal
-Sainteannedesmonts
-Oldchelsea
-Northstormont
-Alnwickhaldimand
-Peaceriver
-Arranelderslie
-Saintzotique
-Valshefford
-Dourodummer
+Huron-Kinloss
+Coteau-du-Lac
+The Blue Mountains
+Whitewater Region
+Edwardsburgh/Cardinal
+Sainte-Anne-des-Monts
+Old Chelsea
+North Stormont
+Alnwick/Haldimand
+Peace River
+Arran-Elderslie
+Saint-Zotique
+Val-Shefford
+Douro-Dummer
 Plessisville
 Ritchot
-Otonabeesouthmonaghan
+Otonabee-South Monaghan
 Shediac
-Slavelake
-Portcartier
-Saintlambertdelauzon
+Slave Lake
+Port-Cartier
+Saint-Lambert-de-Lauzon
 Barrington
-Rockymountainhouse
+Rocky Mountain House
 Chatsworth
 Stephenville
-Muskokafalls
+Muskoka Falls
 Devon
 Yarmouth
 Boischatel
-Parrysound
-Pointecalumet
-Beaubassineastbeaubassinest
+Parry Sound
+Pointe-Calumet
+Beaubassin East / Beaubassin-est
 Wainfleet
 Cramahe
 Beauceville
-Northmiddlesex
+North Middlesex
 Amqui
-Saintecatherinedelajacquescartier
+Sainte-Catherine-de-la-Jacques-Cartier
 Clarenville
-Montjoli
-Dysartetal
+Mont-Joli
+Dysart et al
 Wainwright
 Contrecoeur
 Beresford
-Saintjosephdulac
+Saint-Joseph-du-Lac
 Hope
 Gimli
 Douglas
-Saintapollinaire
-Hindonhill
-Lescedres
-Labroquerie
+Saint-Apollinaire
+Hindon Hill
+Les Cedres
+La Broquerie
 Kent
 Tweed
-Saintfelixdevalois
-Bayroberts
+Saint-Felix-de-Valois
+Bay Roberts
 Melfort
 Bonnyville
 Stettler
-Saintcalixte
-Lacmegantic
+Saint-Calixte
+Lac-Megantic
 Perth
-Oliverpaipoonge
+Oliver Paipoonge
 Humboldt
 Charlemagne
 Pontiac
-Stpaul
+St. Paul
 Petrolia
-Southwestmiddlesex
-Frontofyonge
+Southwest Middlesex
+Front of Yonge
 Vegreville
-Saintebrigittedelaval
+Sainte-Brigitte-de-Laval
 Princeville
 Vercheres
-Thepas
-Saintcesaire
-Laronge
-Tayvalley
-Southbruce
-Mcmasterville
+The Pas
+Saint-Cesaire
+La Ronge
+Tay Valley
+South Bruce
+McMasterville
 Redcliff
-Crowsnestpass
-Saintphilippe
+Crowsnest Pass
+Saint-Philippe
 Richelieu
-Notredamedumontcarmel
-Langegardien
-Saintemartine
-Saintpie
+Notre-Dame-du-Mont-Carmel
+L'Ange-Gardien
+Sainte-Martine
+Saint-Pie
 Peachland
-Ashfieldcolbornewawanosh
-Trentlakes
-Northernrockies
+Ashfield-Colborne-Wawanosh
+Trent Lakes
+Northern Rockies
 Cookshire
-Weststpaul
+West St. Paul
 Windsor
-Lepiphanie
+L'Epiphanie
 Creston
 Smithers
 Cornwall
-Meadowlake
-Lanarkhighlands
+Meadow Lake
+Lanark Highlands
 Sackville
-Grandfalls
+Grand Falls
 Cochrane
 Marystown
-Siouxlookout
+Sioux Lookout
 Didsbury
-Sainthonore
+Saint-Honore
 Fernie
-Deerlake
+Deer Lake
 Woodstock
-Valdavid
-Flinflon
+Val-David
+Flin Flon
 Hudson
 Gananoque
 Brokenhead
-Saintpaul
+Saint-Paul
 Burton
 Spallumcheen
 Westlock
-Temiscouatasurlelac
+Temiscouata-sur-le-Lac
 Shannon
 Osoyoos
-Montrealouest
+Montreal-Ouest
 Hearst
-Sainthenri
-Steanne
+Saint-Henri
+Ste. Anne
 Antigonish
 Espanola
-Westelgin
-Flinflonpart
-Grandbaywestfield
-Sainteannedebellevue
-Northhuron
+West Elgin
+Flin Flon (Part)
+Grand Bay-Westfield
+Sainte-Anne-de-Bellevue
+North Huron
 Oliver
-Saintrochdelachigan
-Stirlingrawdon
+Saint-Roch-de-l'Achigan
+Stirling-Rawdon
 Chisasibi
 Carbonear
-Saintmarys
+Saint Marys
 Chertsey
 Armstrong
 Stonewall
 Shippagan
 Lanoraie
 Memramcook
-Centrehastings
+Centre Hastings
 Warwick
-Eastferris
+East Ferris
 Hanwell
-Saintjosephdebeauce
+Saint-Joseph-de-Beauce
 Metchosin
-Lucanbiddulph
-Riviererouge
+Lucan Biddulph
+Riviere-Rouge
 Greenstone
-Saintmathiassurrichelieu
+Saint-Mathias-sur-Richelieu
 Neepawa
 Gibsons
 Kindersley
 Jasper
 Barrhead
-Lescoteaux
+Les Coteaux
 Melville
-Saintgermaindegrantham
-Iroquoisfalls
-Havelockbelmontmethuen
+Saint-Germain-de-Grantham
+Iroquois Falls
+Havelock-Belmont-Methuen
 Cornwallis
-Saintboniface
-Edenwoldno158
+Saint-Boniface
+Edenwold No. 158
 Coverdale
 Vanderhoof
 Southwold
 Goulds
-Saintstephen
+Saint Stephen
 Waterloo
 Nipawin
 Neuville
-Saintcyrilledewendover
-Centralfrontenac
-Montorford
-Saintjeandematha
+Saint-Cyrille-de-Wendover
+Central Frontenac
+Mont-Orford
+Saint-Jean-de-Matha
 Seguin
 Tyendinaga
 Hampton
 Sussex
-Grandforks
-Lapocatiere
+Grand Forks
+La Pocatiere
 Caraquet
-Saintetiennedesgres
+Saint-Etienne-des-Gres
 Altona
 Stellarton
 Wolfville
-Newmaryland
-Porthardy
-Saintdonat
-Chateauricher
-Madawaskavalley
-Deepriver
-Asphodelnorwood
-Redlake
-Metabetchouanlacalacroix
+New Maryland
+Port Hardy
+Saint-Donat
+Chateau-Richer
+Madawaska Valley
+Deep River
+Asphodel-Norwood
+Red Lake
+Metabetchouan-Lac-a-la-Croix
 Berthierville
 Vermilion
 Niverville
-Hastingshighlands
+Hastings Highlands
 Carstairs
 Danville
-Channelportauxbasques
+Channel-Port aux Basques
 Battleford
-Lacetchemin
-Saintantonin
-Saintjacques
-Swanriver
+Lac-Etchemin
+Saint-Antonin
+Saint-Jacques
+Swan River
 Sutton
-Northernbrucepeninsula
-Lisletsurmer
-Carletonsurmer
+Northern Bruce Peninsula
+L'Islet-sur-Mer
+Carleton-sur-Mer
 Oka
 Prescott
 Amaranth
-Marmoraandlake
+Marmora and Lake
 Maniwaki
-Morinheights
+Morin-Heights
 Dundas
 Napierville
 Crabtree
 Bancroft
-Sainttite
+Saint-Tite
 Howick
-Duttondunwich
+Dutton/Dunwich
 Callander
 Simonds
-Baiedurfe
-Newrichmond
-Perthsouth
-Roxtonpond
+Baie-d'Urfe
+New Richmond
+Perth South
+Roxton Pond
 Sparwood
 Claresholm
 Breslau
 Montague
 Cumberland
 Beaupre
-Saintandreavellin
-Saintambroisedekildare
-Eastangus
+Saint-Andre-Avellin
+Saint-Ambroise-de-Kildare
+East Angus
 Rossland
 Mackenzie
 Golden
 Raymond
-Saintadolphedhoward
+Saint-Adolphe-d'Howard
 Warwick
-Bowenisland
-Bonnecherevalley
+Bowen Island
+Bonnechere Valley
 Windsor
-Pinchercreek
+Pincher Creek
 Alnwick
 Westville
 Fruitvale
 Pasadena
-Saintprosper
+Saint-Prosper
 Ormstown
 Cardston
 Westbank
-Desalaberry
+De Salaberry
 Headingley
-Grandecache
+Grande Cache
 Atholville
-Saintagapit
-Princealbertno461
+Saint-Agapit
+Prince Albert No. 461
 Casselman
-Saintambroise
-Hayriver
+Saint-Ambroise
+Hay River
 Mistissini
 Studholm
 Lumby
-Saintfaustinlaccarre
-Morristurnberry
+Saint-Faustin--Lac-Carre
+Morris-Turnberry
 Placentia
-Saintpascal
+Saint-Pascal
 Mulmur
-Blindriver
+Blind River
 Dunham
-Havresaintpierre
-Saintanselme
-Troispistoles
-Granderiviere
+Havre-Saint-Pierre
+Saint-Anselme
+Trois-Pistoles
+Grande-Riviere
 Powassan
 Malartic
 Bonavista
-Killarneyturtlemountain
+Killarney - Turtle Mountain
 Woodlands
 Lewisporte
-Saintdenisdebrompton
+Saint-Denis-de-Brompton
 Invermere
 Salisbury
-Bifrostriverton
-Bucklandno491
+Bifrost-Riverton
+Buckland No. 491
 Cartier
-Sainteannedeslacs
-Highlandseast
+Sainte-Anne-des-Lacs
+Highlands East
 Alexander
-Sainteclaire
+Sainte-Claire
 Perce
-Saintjeanportjoli
-Easthawkesbury
+Saint-Jean-Port-Joli
+East Hawkesbury
 Bright
 Penhold
-Saintandredargenteuil
-Saintcomeliniere
-Saintsulpice
+Saint-Andre-d'Argenteuil
+Saint-Come--Liniere
+Saint-Sulpice
 Marathon
 Forestville
 Inuvik
 Richmond
-Lakecowichan
-Sablesspanishrivers
-Hillsburgroblinshellriver
-Porthawkesbury
-Threehills
+Lake Cowichan
+Sables-Spanish Rivers
+Hillsburg-Roblin-Shell River
+Port Hawkesbury
+Three Hills
 Lorette
 Paspebiac
-Saintthomas
-Saintjeanbaptiste
+Saint-Thomas
+Saint-Jean-Baptiste
 Portneuf
 Pictou
 Tisdale
-Lakeofbays
-Highlevel
+Lake of Bays
+High Level
 Gibbons
-Bishopsfalls
-Westlakegladstone
+Bishops Falls
+WestLake-Gladstone
 Normandin
-Saintalphonserodriguez
+Saint-Alphonse-Rodriguez
 Beausejour
 Dalhousie
-Saintalphonsedegranby
-Lacdubonnet
+Saint-Alphonse-de-Granby
+Lac du Bonnet
 Clermont
 Virden
 Compton
-Whitecity
+White City
 Ellison
-Montsaintgregoire
+Mont-Saint-Gregoire
 Wellington
 Merrickville
-Saintliboire
+Saint-Liboire
 Degelis
 Morris
-Saintalexisdesmonts
-Capsaintignace
-Saintanacletdelessard
+Saint-Alexis-des-Monts
+Cap-Saint-Ignace
+Saint-Anaclet-de-Lessard
 Carman
 Athens
 Melancthon
-Capsante
-Harbourgrace
+Cap Sante
+Harbour Grace
 Houston
-Adelaidemetcalfe
+Adelaide-Metcalfe
 Crossfield
 Springdale
-Fortmacleod
+Fort Macleod
 Athabasca
 Enderby
-Saintferreollesneiges
-Laurentianhills
-Grandvalley
+Saint-Ferreol-les-Neiges
+Laurentian Hills
+Grand Valley
 Senneterre
-Saintemariemadeleine
-Admastonbromley
-Saintgabrieldevalcartier
-Northalgonawilberforce
+Sainte-Marie-Madeleine
+Admaston/Bromley
+Saint-Gabriel-de-Valcartier
+North Algona Wilberforce
 Kingston
 Wawa
-Saintchristophedarthabaska
-Saintemelanie
-Ascotcorner
+Saint-Christophe-d'Arthabaska
+Sainte-Melanie
+Ascot Corner
 Horton
-Saintmichel
+Saint-Michel
 Botwood
-Saintpauldabbotsford
-Saintmarcdescarrieres
+Saint-Paul-d'Abbotsford
+Saint-Marc-des-Carrieres
 Stanstead
-Sainteannedebeaupre
-Sainteluce
-Saintgabriel
-Rankininlet
-Vanscoyno345
+Sainte-Anne-de-Beaupre
+Sainte-Luce
+Saint-Gabriel
+Rankin Inlet
+Vanscoy No. 345
 Cedar
 Princeton
-Laloche
+La Loche
 Kingsclear
-Fermeneuve
+Ferme-Neuve
 Thurso
 Adstock
 Shuniah
 Enniskillen
 Yamachiche
-Saintmaurice
+Saint-Maurice
 Bonaventure
-Valmorin
+Val-Morin
 Pohenegamook
 Wakefield
 Stoke
-Saintemargueritedulacmasson
-Saintprime
+Sainte-Marguerite-du-Lac-Masson
+Saint-Prime
 Kuujjuaq
 Atikokan
-Grenvillesurlarouge
-Northcypresslangford
-Sainteannedesorel
+Grenville-sur-la-Rouge
+North Cypress-Langford
+Sainte-Anne-de-Sorel
 Macamic
 Sundre
 Rougemont
 Piedmont
 Grimshaw
-Lacdesecorces
-Northeasternmanitoulinandtheislands
-Pelicannarrows
-Mcdougall
-Blackdiamond
-Saintpamphile
+Lac-des-Ecorces
+Northeastern Manitoulin and the Islands
+Pelican Narrows
+McDougall
+Black Diamond
+Saint-Pamphile
 Bedford
-Weedoncentre
+Weedon-Centre
 Lacolle
-Saintgabrieldebrandon
+Saint-Gabriel-de-Brandon
 Errington
 Coalhurst
-Frenchriverrivieredesfrancais
+French River / Riviere des Francais
 Arviat
-Saintdaviddefalardeau
+Saint-David-de-Falardeau
 Markstay
-Spaniardsbay
+Spaniards Bay
 Cocagne
-Saintbruno
+Saint-Bruno
 Chetwynd
-Laurierstation
-Saintanicet
-Saintmathieudebeloeil
-Capchat
+Laurier-Station
+Saint-Anicet
+Saint-Mathieu-de-Beloeil
+Cap-Chat
 Sexsmith
-Notredamedelourdes
-Villemarie
-Saintisidore
+Notre-Dame-de-Lourdes
+Ville-Marie
+Saint-Isidore
 Shippegan
-Eastgarafraxa
+East Garafraxa
 Pemberton
 Unity
 Rimbey
-Highprairie
-Turnervalley
+High Prairie
+Turner Valley
 Hanna
-Fortsmith
+Fort Smith
 Maria
-Saintchrysostome
-Greatermadawaska
+Saint-Chrysostome
+Greater Madawaska
 Berwick
-Saintdamase
+Saint-Damase
 Lincoln
 Disraeli
-Saintevictoiredesorel
-Meadowlakeno588
+Sainte-Victoire-de-Sorel
+Meadow Lake No. 588
 Elkford
-Georgianbay
-Saintalexandre
+Georgian Bay
+Saint-Alexandre
 Herbertville
 Moosomin
-Northkawartha
-Saintethecle
+North Kawartha
+Sainte-Thecle
 Trenton
 Fermont
 Esterhazy
 Wickham
-Lapresentation
+La Presentation
 Beaverlodge
-Saintecatherinedehatley
-Saintbasile
-Saintrapha�l
+Sainte-Catherine-de-Hatley
+Saint-Basile
+Saint-Raphael
 Holyrood
 Gracefield
-Saintmartin
+Saint-Martin
 Causapscal
 Brigham
 Perry
-Portdanielgascons
+Port-Daniel--Gascons
 Rosetown
 Minnedosa
 Labelle
 Huntingdon
 Hebertville
-Blackrivermatheson
-Saintmicheldessaints
+Black River-Matheson
+Saint-Michel-des-Saints
 Dufferin
-Saintvictor
+Saint-Victor
 Sicamous
-Cappele
+Cap Pele
 Kelsey
-Killaloehagartyandrichards
+Killaloe, Hagarty and Richards
 Alvinston
-Dundurnno314
-Saintephremdebeauce
+Dundurn No. 314
+Saint-Ephrem-de-Beauce
 Assiniboia
 Temiscaming
 Magrath
-Saintegenevievedeberthier
+Sainte-Genevieve-de-Berthier
 Buctouche
-Grandmanan
-Saintemadeleine
+Grand Manan
+Sainte-Madeleine
 Boissevain
 Scott
-Saintecroix
-Algonquinhighlands
+Sainte-Croix
+Algonquin Highlands
 Valcourt
-Saintgeorge
+Saint George
 Paquetville
-Saintdominique
+Saint-Dominique
 Clearwater
-Addingtonhighlands
+Addington Highlands
 Lillooet
 Burin
-Grandbank
+Grand Bank
 Lery
 Minto
-Rosthernno403
+Rosthern No. 403
 Chase
-Mansfieldetpontefract
-Saintdenis
+Mansfield-et-Pontefract
+Saint-Denis
 Outlook
 Mitchell
-Saintgedeondebeauce
-Saintleonarddaston
+Saint-Gedeon-de-Beauce
+Saint-Leonard-d'Aston
 Lunenburg
 Northesk
 Albanel
-Stanthony
+St. Anthony
 Pessamit
 Maskinonge
-Saintcharlesdebellechasse
-Fogoisland
-Eastbroughton
+Saint-Charles-de-Bellechasse
+Fogo Island
+East Broughton
 Lantz
 Calmar
 Highlands
-Saintpolycarpe
-Logybaymiddlecoveoutercove
+Saint-Polycarpe
+Logy Bay-Middle Cove-Outer Cove
 Deschambault
 Canora
-Uppermiramichi
+Upper Miramichi
 Anmore
 Hardwicke
-Saintcome
+Saint-Come
 Waskaganish
 Twillingate
-Saintquentin
-Lebelsurquevillon
-Pilotbutte
+Saint-Quentin
+Lebel-sur-Quevillon
+Pilot Butte
 Nanton
 Pierreville
-Newwesvalley
-Pennfieldridge
-Westinterlake
+New-Wes-Valley
+Pennfield Ridge
+West Interlake
 Biggar
-Britanniano502
+Britannia No. 502
 Kent
 Wabana
-Saintgilles
+Saint-Gilles
 Wendake
-Saintbernard
-Saintececiledemilton
-Saintrochderichelieu
-Saintnazaire
-Saintelzear
+Saint-Bernard
+Sainte-Cecile-de-Milton
+Saint-Roch-de-Richelieu
+Saint-Nazaire
+Saint-Elzear
 Hinchinbrooke
-Saintfrancoisxavierdebrompton
+Saint-Francois-Xavier-de-Brompton
 Papineauville
-Prairieview
-Cowichanbay
-Saintignacedeloyola
-Centralmanitoulin
-Maplecreek
+Prairie View
+Cowichan Bay
+Saint-Ignace-de-Loyola
+Central Manitoulin
+Maple Creek
 Glovertown
 Tofield
 Madoc
 Upton
-Sainteannedesabrevois
-Loganlake
-Sainteannedelaperade
-Saintdamiendebuckland
-Bakerlake
+Sainte-Anne-de-Sabrevois
+Logan Lake
+Sainte-Anne-de-la-Perade
+Saint-Damien-de-Buckland
+Baker Lake
 Saltair
-Pouchcove
-Saintferdinand
-Portmcneill
+Pouch Cove
+Saint-Ferdinand
+Port McNeill
 Digby
 Manouane
-Saintgervais
+Saint-Gervais
 Neebing
 Redwater
-Saintalexandredekamouraska
-Saintmarcsurrichelieu
+Saint-Alexandre-de-Kamouraska
+Saint-Marc-sur-Richelieu
 Mandeville
 Caplan
-Pointedward
+Point Edward
 Allardville
 Waterville
-Saintdamien
-Lacnominingue
+Saint-Damien
+Lac-Nominingue
 Obedjiwan
 Rama
-Mccreary
-Delorainewinchester
-Oaklandwawanesa
-Brendawaskada
-Russellbinscarth
-Ellicearchie
-Sourisglenwood
+McCreary
+Deloraine-Winchester
+Oakland-Wawanesa
+Brenda-Waskada
+Russell-Binscarth
+Ellice-Archie
+Souris-Glenwood
 Riverdale
 Pembina
-Wallacewoodworth
+Wallace-Woodworth
 Lorne
 Ethelbert
 Yellowhead
-Swanvalleywest
+Swan Valley West
 Grey
-Gilbertplains
-Norfolktreherne
+Gilbert Plains
+Norfolk-Treherne
 Hamiota
-Emersonfranklin
+Emerson-Franklin
 Sifton
 Rossburn
-Grandview
+Grand View
 Grassland
 Louise
-Sterose
-Cartwrightroblin
-Mosseyriver
+Ste. Rose
+Cartwright-Roblin
+Mossey River
 Lakeshore
-Ridingmountainwest
-Clanwilliamerickson
-Glenborosouthcypress
-Northnorfolk
+Riding Mountain West
+Clanwilliam-Erickson
+Glenboro-South Cypress
+North Norfolk
 Reinland
-Minitonasbowsman
+Minitonas-Bowsman
 Kippens
 Blucher
 Hatley
-Saintgedeon
-Kingseyfalls
+Saint-Gedeon
+Kingsey Falls
 Provost
-Saintcharles
+Saint-Charles
 Mattawa
-Tumblerridge
-Terrassevaudreuil
-Lascensiondenotreseigneur
-Bowisland
+Tumbler Ridge
+Terrasse-Vaudreuil
+L'Ascension-de-Notre-Seigneur
+Bow Island
 Barraute
-Onehundredmilehouse
+One Hundred Mile House
 Kedgwick
 Gambo
-Saintliguori
+Saint-Liguori
 Bonfield
-Pointelebel
-Saintmary
-Saintpatricedesherrington
-Foxcreek
-Dawneuphemia
+Pointe-Lebel
+Saint Mary
+Saint-Patrice-de-Sherrington
+Fox Creek
+Dawn-Euphemia
 Chapleau
-Saintesprit
-Westfieldbeach
+Saint-Esprit
+Westfield Beach
 Montague
 Mashteuiatsh
-Saintfrancoisdulac
-Eelrivercrossing
-Saintfulgence
+Saint-Francois-du-Lac
+Eel River Crossing
+Saint-Fulgence
 Millet
-Valleejonction
-Saintgeorgesdecacouna
-Lumsdenno189
+Vallee-Jonction
+Saint-Georges-de-Cacouna
+Lumsden No. 189
 Manitouwadge
 Wellington
-Swiftcurrentno137
+Swift Current No. 137
 Tofino
-Fortquappelle
+Fort Qu'Appelle
 Vulcan
-Indianhead
-Petitrocher
+Indian Head
+Petit Rocher
 Wabush
-Saintfabien
+Saint-Fabien
 Watrous
-Northfrontenac
-Lacsuperieur
-Lesescoumins
+North Frontenac
+Lac-Superieur
+Les Escoumins
 Richibucto
-Rivierebeaudette
-Saintbarthelemy
-Nisgaa
+Riviere-Beaudette
+Saint-Barthelemy
+Nisga'a
 Austin
-Saintmathieu
-Saintpauldelileauxnoix
-Orkneyno244
-Behchok�
-Saintjosephdecoleraine
-Saintcypriendenapierville
+Saint-Mathieu
+Saint-Paul-de-l'Ile-aux-Noix
+Orkney No. 244
+Behchoko
+Saint-Joseph-de-Coleraine
+Saint-Cyprien-de-Napierville
 Sayabec
 Valleyview
 Deleage
 Potton
-Saintebeatrix
-Saintejustine
+Sainte-Beatrix
+Sainte-Justine
 Eastman
-Saintvaleriendemilton
-Saintcuthbert
-Saintblaisesurrichelieu
+Saint-Valerien-de-Milton
+Saint-Cuthbert
+Saint-Blaise-sur-Richelieu
 Middleton
 Maugerville
 Dalmeny
 Kamsack
 Lumsden
-Trinitybaynorth
-Saintmicheldebellechasse
-Sainteangeledemonnoir
-Picturebutte
-Sacrecoeursaguenay
-Saintlouis
+Trinity Bay North
+Saint-Michel-de-Bellechasse
+Sainte-Angele-de-Monnoir
+Picture Butte
+Sacre-Coeur-Saguenay
+Saint-Louis
 Victoria
-Saintrobert
+Saint-Robert
 Armstrong
-Saintpierredeliledorleans
-Laguadeloupe
-Saintandrews
-Burnslake
+Saint-Pierre-de-l'Ile-d'Orleans
+La Guadeloupe
+Saint Andrews
+Burns Lake
 Povungnituk
-Mannerssutton
+Manners Sutton
 Gore
 Deseronto
 Lamont
 Chambord
 Dudswell
 Wynyard
-Cambridgebay
-Saintnarcisse
-Frontenacislands
+Cambridge Bay
+Saint-Narcisse
+Frontenac Islands
 Waswanipi
 Inukjuak
 Piney
 Komoka
-Saintzacharie
+Saint-Zacharie
 Hemmingford
 Shelburne
-Saintclet
+Saint-Clet
 Carberry
 Brighton
-Saintantoine
+Saint-Antoine
 Warfield
 Northampton
-Saintours
-Stephenvillecrossing
-Sainteannedelapocatiere
+Saint-Ours
+Stephenville Crossing
+Sainte-Anne-de-la-Pocatiere
 Ucluelet
-Saintplacide
+Saint-Placide
 Barriere
 Fisher
 Nipissing
-Sainteclotilde
+Sainte-Clotilde
 Shaunavon
 Wicklow
 Southesk
@@ -1265,474 +1265,474 @@ Nouvelle
 Rosthern
 Yamaska
 Neguac
-Flatrock
+Flat Rock
 Igloolik
 Grunthal
 Naramata
-Sainteliedecaxton
+Saint-Elie-de-Caxton
 Blumenort
 Balmoral
 Price
 Rosedale
-Saintjacqueslemineur
-Huronshores
+Saint-Jacques-le-Mineur
+Huron Shores
 Champlain
 Whitehead
-Saintantoinesurrichelieu
-Saintpacome
-Saintstanislasdekostka
+Saint-Antoine-sur-Richelieu
+Saint-Pacome
+Saint-Stanislas-de-Kostka
 Frontenac
 Stuartburn
-Yamaskaest
-Sainteemeliedelenergie
-Saintcharlessurrichelieu
-Saintjosephdesorel
+Yamaska-Est
+Sainte-Emelie-de-l'Energie
+Saint-Charles-sur-Richelieu
+Saint-Joseph-de-Sorel
 Nipigon
-Riviereblanche
-Saintehelenedebagot
-Franklincentre
-Harbourbreton
-Masseydrive
-Milleisles
-Wiltonno472
+Riviere-Blanche
+Sainte-Helene-de-Bagot
+Franklin Centre
+Harbour Breton
+Massey Drive
+Mille-Isles
+Wilton No. 472
 Lyster
 Oakview
 Balgonie
-Harrisonpark
+Harrison Park
 Kensington
-Witlessbay
-Pondinlet
+Witless Bay
+Pond Inlet
 Royston
-Sainteclotildedehorton
+Sainte-Clotilde-de-Horton
 Burford
-Fossambaultsurlelac
-Saintbenoitlabre
+Fossambault-sur-le-Lac
+Saint-Benoit-Labre
 Coombs
-Terracebay
+Terrace Bay
 Chapais
-Sainthonoredeshenley
+Saint-Honore-de-Shenley
 Cleveland
-Macdonaldmeredithandaberdeenadditional
+Macdonald, Meredith and Aberdeen Additional
 Messines
-Saintjeandedieu
+Saint-Jean-de-Dieu
 Nakusp
 Florenceville
-Saintantoinedetilly
+Saint-Antoine-de-Tilly
 Lakeview
 Humbermouth
-Fortstjames
-Saintfrancoisdelarivieredusud
-Saintjacques
+Fort St. James
+Saint-Francois-de-la-Riviere-du-Sud
+Saint-Jacques
 Uashat
 Perth
-Eeyouistcheebaiejames
-Shellbrookno493
+Eeyou Istchee Baie-James
+Shellbrook No. 493
 Shawville
-Saintlucien
+Saint-Lucien
 Lambton
-Saintlaurentdeliledorleans
-Saintflavien
+Saint-Laurent-de-l'Ile-d'Orleans
+Saint-Flavien
 Grenville
-Chuteauxoutardes
-Saintemarcellinedekildare
-Saintfelixdekingsey
-Upperislandcove
+Chute-aux-Outardes
+Sainte-Marcelline-de-Kildare
+Saint-Felix-de-Kingsey
+Upper Island Cove
 Glenelg
-Sainteelisabeth
+Sainte-Elisabeth
 Ashcroft
-Clarkesbeach
-Saintbernarddelacolle
+Clarkes Beach
+Saint-Bernard-de-Lacolle
 Belledune
-Saintguillaume
-Veniseenquebec
+Saint-Guillaume
+Venise-en-Quebec
 Maliotenam
 Ripon
 Hilliers
-Saintjoseph
-Saintpaulin
-Bonaccord
-Saintdavid
-Saintalbert
+Saint-Joseph
+Saint-Paulin
+Bon Accord
+Saint David
+Saint-Albert
 Matagami
 Springfield
 Amherst
-Notredamedulaus
-Stgeorge
+Notre-Dame-du-Laus
+St. George
 Wembley
 Victoria
 Springbrook
-Sainttitedescaps
-Hudsonbay
+Saint-Tite-des-Caps
+Hudson Bay
 Pinawa
-Brudenelllyndochandraglan
+Brudenell, Lyndoch and Raglan
 Carlyle
 Keremeos
-Valjoli
-Goldriver
-Saintcasimir
-Baybulls
+Val-Joli
+Gold River
+Saint-Casimir
+Bay Bulls
 Langham
-Frenchmanbutte
+Frenchman Butte
 Gordon
 Kugluktuk
-Saintmalachie
+Saint-Malachie
 Southampton
 Salluit
 Pangnirtung
-Saintlouisdegonzague
+Saint-Louis-de-Gonzague
 Moosonee
 Englehart
-Sainturbain
-Tringjonction
+Saint-Urbain
+Tring-Jonction
 Nauwigewauk
-Pointealacroix
+Pointe-a-la-Croix
 Denmark
-Saintjoachim
-Torchriverno488
-Sainttheodoredacton
+Saint-Joachim
+Torch River No. 488
+Saint-Theodore-d'Acton
 Grindrod
-Lisleverte
-Harrisonhotsprings
+L' Isle-Verte
+Harrison Hot Springs
 Palmarolle
 Henryville
-Sussexcorner
-Saintodilondecranbourne
+Sussex Corner
+Saint-Odilon-de-Cranbourne
 Pipestone
 Laurierville
-Ladore
-Lacausaumon
+La Dore
+Lac-au-Saumon
 Wotton
-Prairielakes
-Elkpoint
+Prairie Lakes
+Elk Point
 Shellbrook
 Wemindji
-Capedorset
+Cape Dorset
 Strong
 Lappe
-Riviereheva
-Fortcoulonge
-Irishtownsummerside
+Riviere-Heva
+Fort-Coulonge
+Irishtown-Summerside
 Godmanchester
 Macklin
 Armour
-Saintsimon
-Stfrancoisxavier
+Saint-Simon
+St. Francois Xavier
 Tingwick
-Saintaubert
-Saintmathieuduparc
+Saint-Aubert
+Saint-Mathieu-du-Parc
 Wabasca
 Ragueneau
-Notredamedubonconseil
+Notre-Dame-du-Bon-Conseil
 Wasagamack
-Saintubalde
+Saint-Ubalde
 Creighton
 Fortune
 Faraday
-Berthiersurmer
+Berthier-sur-Mer
 Frampton
 Magnetawan
-Newcarlisle
-Lairdno404
+New Carlisle
+Laird No. 404
 Petitcodiac
 Popkum
 Norton
-Canwoodno494
-Wentworthnord
-Bascaraquet
-Sainteursule
+Canwood No. 494
+Wentworth-Nord
+Bas Caraquet
+Sainte-Ursule
 Dawson
 Nantes
-Lacauxsables
+Lac-aux-Sables
 Stewiacke
 Taylor
 Rosser
-Estevanno5
+Estevan No. 5
 Falmouth
-Vaudreuilsurlelac
+Vaudreuil-sur-le-Lac
 Grahamdale
 Cardwell
-Twohills
-Spiritwoodno496
+Two Hills
+Spiritwood No. 496
 Legal
 Amulet
 Herouxville
-Pointedescascades
+Pointe-des-Cascades
 Weldford
 Reynolds
-Stlaurent
-Lionsbay
-Lisleauxallumettes
+St. Laurent
+Lions Bay
+L'Isle-aux-Allumettes
 Emo
-Saintebrigidediberville
-Leseboulements
+Sainte-Brigide-d'Iberville
+Les Eboulements
 Dunsmuir
-Pointeauxoutardes
-Smoothrockfalls
+Pointe-aux-Outardes
+Smooth Rock Falls
 Oxbow
 Telkwa
-Gjoahaven
-Saintebarbe
+Gjoa Haven
+Sainte-Barbe
 Mayerthorpe
-Saintlouisduhaha
-Powerviewpinefalls
-Baieverte
-Saintedouard
+Saint-Louis-du-Ha! Ha!
+Powerview-Pine Falls
+Baie Verte
+Saint-Edouard
 Charlo
 Hillsborough
 Bruederheim
 Burgeo
 Wadena
 Richmond
-Swanhills
+Swan Hills
 Wilkie
-Saintleonard
-Rivierebleue
+Saint-Leonard
+Riviere-Bleue
 Noyan
-Ilealacrosse
+Ile-a-la-Crosse
 Landmark
-Sainthugues
+Saint-Hugues
 Chisholm
-Sainteannedusault
-Laconception
-Saintvalere
+Sainte-Anne-du-Sault
+La Conception
+Saint-Valere
 Sorrento
 Lameque
 Thessalon
-Lisleauxcoudres
+L'Isle-aux-Coudres
 Nobleford
 Larouche
-Southquappelleno157
+South Qu'Appelle No. 157
 Elton
 Lorrainville
 Conestogo
 Upham
-Stcharles
-Sainteluciedeslaurentides
-Saintalexis
+St.-Charles
+Sainte-Lucie-des-Laurentides
+Saint-Alexis
 Gillam
-Roxtonfalls
+Roxton Falls
 Montcalm
 Clarendon
-Mervinno499
-Saintludger
+Mervin No. 499
+Saint-Ludger
 Coldwell
-Saintarsene
+Saint-Arsene
 Racine
-Saintmajoriquedegrantham
-Saintzenon
-Saintarmand
-Saintedouarddelotbiniere
+Saint-Majorique-de-Grantham
+Saint-Zenon
+Saint-Armand
+Saint-Edouard-de-Lotbiniere
 Alonsa
 Listuguj
 Bowden
-Stjoseph
+St. Joseph
 Osler
-Sainthubertderiviereduloup
-Saintjude
+Saint-Hubert-de-Riviere-du-Loup
+Saint-Jude
 Dildo
-Laminerve
+La Minerve
 Lanigan
-Lajordno128
+Lajord No. 128
 Moonbeam
-Notredamedespins
-Saintalban
-Saintpierrelesbecquets
+Notre-Dame-des-Pins
+Saint-Alban
+Saint-Pierre-les-Becquets
 Arborg
 Vauxhall
 Bayfield
-Beaverriver
+Beaver River
 Irricana
 Labrecque
-Newbandon
+New Bandon
 Wemotaci
-Saintehenedine
-Lansesaintjean
+Sainte-Henedine
+L'Anse-Saint-Jean
 Bassano
 Parrsboro
 Kaleden
-Stgeorges
-Fortsimpson
+St. George's
+Fort Simpson
 Akwesasne
-Lavenir
+L'Avenir
 Ignace
 Claremont
 Teulon
 Peel
 Musquash
-Notredameduportage
-Stlawrence
+Notre-Dame-du-Portage
+St. Lawrence
 Oxford
-Mintoodanah
-Stalbans
-Saintjames
-Saintnorbertdarthabaska
+Minto-Odanah
+St. Alban's
+Saint James
+Saint-Norbert-d'Arthabaska
 Manning
-Glenellalansdowne
-Sainthilarion
-Saintsimeon
-Saintbarnabe
-Saintefelicite
-Twoborders
+Glenella-Lansdowne
+Saint-Hilarion
+Saint-Simeon
+Saint-Barnabe
+Sainte-Felicite
+Two Borders
 Queensbury
 Bury
-Lacbouchette
-Saintlazaredebellechasse
-Saintmicheldusquatec
-Saintjoachimdeshefford
-Stpierrejolys
-Grandremous
-Saintgabrielderimouski
+Lac-Bouchette
+Saint-Lazare-de-Bellechasse
+Saint-Michel-du-Squatec
+Saint-Joachim-de-Shefford
+St-Pierre-Jolys
+Grand-Remous
+Saint-Gabriel-de-Rimouski
 Armstrong
 Rogersville
 Langenburg
-Saintemariesalome
-Moosejawno161
-Saintcyprien
+Sainte-Marie-Salome
+Moose Jaw No. 161
+Saint-Cyprien
 Maidstone
-Tressaintsacrement
-Battleriverno438
-Miltonvalepark
-Mcadam
-Saintsanges
-Sainturbainpremier
-Centrevillewarehamtrinity
+Tres-Saint-Sacrement
+Battle River No. 438
+Miltonvale Park
+McAdam
+Saints-Anges
+Saint-Urbain-Premier
+Centreville-Wareham-Trinity
 Alberton
-Winnipegbeach
-Sainteagathedelotbiniere
+Winnipeg Beach
+Sainte-Agathe-de-Lotbiniere
 Salmo
 Kipling
 Sagamok
 Trecesson
 Tara
-Grandevallee
+Grande-Vallee
 Bertrand
 Newcastle
-Montcarmel
-Saintmartins
-Sainteugene
-Notredamedesneiges
-Saintandre
+Mont-Carmel
+Saint Martins
+Saint-Eugene
+Notre-Dame-des-Neiges
+Saint-Andre
 Centreville
 Roland
-Saintleondestandon
-Saintmodeste
+Saint-Leon-de-Standon
+Saint-Modeste
 Carnduff
 Carling
 Eckville
 Nain
 Hillsburgh
-Foamlake
-Saintesabine
-Saintmaximedumontlouis
-Blancsablon
+Foam Lake
+Sainte-Sabine
+Saint-Maxime-du-Mont-Louis
+Blanc-Sablon
 Cobalt
 Gravelbourg
-Southriver
-Hudsonbayno394
-Mckellar
+South River
+Hudson Bay No. 394
+McKellar
 Frelighsburg
-Buffalonarrows
-Ayerscliff
-Lesmechins
-Saintemarguerite
-Saintclaude
-Airronge
+Buffalo Narrows
+Ayer's Cliff
+Les Mechins
+Sainte-Marguerite
+Saint-Claude
+Air Ronge
 Chipman
 Girardville
-Saintbrunodeguigues
+Saint-Bruno-de-Guigues
 Grenfell
 Dorchester
-Southalgonquin
+South Algonquin
 Windermere
-Saintnarcissedebeaurivage
-Saintrenedematane
-Saintejeannedarc
+Saint-Narcisse-de-Beaurivage
+Saint-Rene-de-Matane
+Sainte-Jeanne-d'Arc
 Plaisance
-Roxtonsud
-Stlouisno431
+Roxton-Sud
+St. Louis No. 431
 Youbou
 Duchess
-Saintfrederic
+Saint-Frederic
 Viking
-Siouxnarrowsnestorfalls
+Sioux Narrows-Nestor Falls
 Whitecourt
-Repulsebay
-Montrealest
+Repulse Bay
+Montreal-Est
 King
-Reginabeach
-Saintpatricedebeaurivage
+Regina Beach
+Saint-Patrice-de-Beaurivage
 Ootischenia
 Hensall
 Bentley
 Durham
-Saintemarthe
-Notredamedunord
+Sainte-Marthe
+Notre-Dame-du-Nord
 Pinehouse
-Saintaimedeslacs
-Lacdrolet
+Saint-Aime-des-Lacs
+Lac-Drolet
 Preeceville
-Maplecreekno111
-Harbourmainchapelscovelakeview
-Saintwenceslas
-Weyburnno67
-Birchhills
+Maple Creek No. 111
+Harbour Main-Chapel's Cove-Lakeview
+Saint-Wenceslas
+Weyburn No. 67
+Birch Hills
 Wedgeport
 Kerrobert
 Havelock
 Eston
-Saintegenevievedebatiscan
-Saintjustin
-Saintnorbert
+Sainte-Genevieve-de-Batiscan
+Saint-Justin
+Saint-Norbert
 Schreiber
 Trochu
 Botsford
-Riviereouelle
+Riviere-Ouelle
 Greenwich
-Stukelysud
-Saintgeorgesdeclarenceville
-Saintetheresedegaspe
+Stukely-Sud
+Saint-Georges-de-Clarenceville
+Sainte-Therese-de-Gaspe
 Beachburg
 Desbiens
-Clyderiver
-Lamacaza
+Clyde River
+La Macaza
 Souris
-Kindersleyno290
+Kindersley No. 290
 Laird
 Falher
-Saintvallier
+Saint-Vallier
 Coleraine
 Melita
 Noonan
-Saintepetronille
+Sainte-Petronille
 Delisle
 Bristol
-Mahonebay
+Mahone Bay
 Waldheim
-Saintsylvestre
+Saint-Sylvestre
 Taloyoak
 Onoway
-Saintstanislas
+Saint-Stanislas
 Malpeque
 Plantagenet
-Longuerive
+Longue-Rive
 Argyle
 Davidson
-Plasterrock
+Plaster Rock
 Wilmot
 Valemount
-Saintleonarddeportneuf
-Albertabeach
-Saintnarcissederimouski
-Saintbonaventure
-Longlaketonno219
-Papineaucameron
+Saint-Leonard-de-Portneuf
+Alberta Beach
+Saint-Narcisse-de-Rimouski
+Saint-Bonaventure
+Longlaketon No. 219
+Papineau-Cameron
 Assiginack
 Brebeuf
-Hudsonhope
+Hudson Hope
 Prince
-Baiedufebvre
-Durhamsud
+Baie-du-Febvre
+Durham-Sud
 Melbourne
-Nipawinno487
-Ducklakeno463
+Nipawin No. 487
+Duck Lake No. 463
 Oyen
