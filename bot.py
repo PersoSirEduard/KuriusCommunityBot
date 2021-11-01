@@ -8,6 +8,7 @@ intents.members = True
 client = discord.Client(intents=intents)
 
 cities = []
+sanitized_cities = []
 
 voting = False
 focus_channel = False
@@ -23,6 +24,10 @@ async def on_ready():
 	with open("cities.txt") as f:
 		for line in f:
 			cities.append(line.strip())
+	
+	# Separate sanitized city names from cities
+	for city in cities:
+		sanitized_cities.append(sanitizeVote(city))
 
 @client.event
 async def on_message(message):
@@ -73,7 +78,7 @@ async def on_message(message):
 				return
 
 	if focus_channel and voting and message.channel.id == focus_channel:
-		vote = sanitizeVote(message) # Get the sanitized vote
+		vote = sanitizeVote(message.content) # Get the sanitized vote
 
 		# Check if the vote is a valid city
 		vote = isCity(vote)
@@ -135,7 +140,7 @@ def getTopVotes(num):
 	return top_votes
 
 def sanitizeVote(string):
-	string = " ".join(string.content.lower().split()) # Lower and remove extra spaces
+	string = " ".join(string.lower().split()) # Lower and remove extra spaces
 	string = unidecode.unidecode(string) # Remove accents
 	string = "".join(filter(str.isalnum, string)) # Remove non-alphanumeric characters
 	string = string.capitalize() # Capitalize first letter
@@ -145,6 +150,8 @@ def sanitizeVote(string):
 def isCity(string):
 	if string in cities:
 		return string
+	elif string in sanitized_cities:
+		return cities[sanitized_cities.index(string)] # Get the original city name
 	return False
 
 if __name__ == '__main__':
