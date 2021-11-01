@@ -13,7 +13,7 @@ voting = False
 focus_channel = False
 votes = {}
 
-TOKEN = ''
+TOKEN = 'ODk1NDc2NDE0NzU5OTkzMzg2.YV5HZg.3RVy3eMYLH-JHRObUddlsamnWNE'
 
 @client.event
 async def on_ready():
@@ -66,9 +66,9 @@ async def on_message(message):
 				top_votes = getTopVotes(3)
 				await message.channel.send("Did you vote? Well, it's too late now. The round ended.")
 
-				response = "**The top 3 votes were:**\n"
+				response = "**The top votes were:**\n"
 				for i in range(len(top_votes)):
-					response += f":{num2words(i+1)}:. {top_votes[i]['title']} with {top_votes[i]['count']} votes\n"
+					response += f":{num2words(i+1)}: {top_votes[i]['title']} with {top_votes[i]['count']} votes\n"
 				await message.channel.send(response)
 				return
 
@@ -98,12 +98,19 @@ def hasAuthority(user):
 	return "Kurius Executive" in [role.name for role in user.roles]
 
 def didVote(user):
-	return user.id in votes.values()
+	for vote in votes:
+		if user.id in votes[vote]:
+			return True
+	return False
 
 def eraseVote(user):
 	for vote in votes:
 		if user.id in votes[vote]:
 			votes[vote].remove(user.id)
+			if len(votes[vote]) == 0:
+				del votes[vote]
+			print(f"Removed previous vote for {user.name}")
+			return
 
 def getTopVote():
 	top_vote = None
