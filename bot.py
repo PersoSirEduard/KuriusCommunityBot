@@ -14,7 +14,7 @@ voting = False
 focus_channel = False
 votes = {}
 
-TOKEN = 'ODk1NDc2NDE0NzU5OTkzMzg2.YV5HZg.3RVy3eMYLH-JHRObUddlsamnWNE'
+TOKEN = ''
 
 @client.event
 async def on_ready():
@@ -67,8 +67,8 @@ async def on_message(message):
 				voting = False
 				print("Round ended")
 
-				# Get the top 3 votes
-				top_votes = getTopVotes(3)
+				# Get the top 5 votes
+				top_votes = getTopVotes(5)
 				await message.channel.send("Did you vote? Well, it's too late now. The round ended.")
 
 				response = "**The top votes were:**\n"
