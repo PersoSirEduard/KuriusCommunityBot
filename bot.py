@@ -10,6 +10,8 @@ client = discord.Client(intents=intents)
 cities = []
 sanitized_cities = []
 
+takeAllDifferentVotes = False
+
 voting = False
 focus_channel = False
 votes = {}
@@ -35,6 +37,7 @@ async def on_message(message):
 	global voting
 	global focus_channel
 	global votes
+	global takeAllDifferentVotes
 
 	if message.author == client.user: return # Ignore self messages
 	
@@ -77,6 +80,17 @@ async def on_message(message):
 				await message.channel.send(response)
 				return
 
+			if not voting:
+				if message.content.lower().startswith("!multiplevotes") and not voting:
+					takeAllDifferentVotes = True
+					await message.channel.send("A user can vote for multiple different answers.")
+					return
+				
+				if message.content.lower().startswith("!singlevote") and not voting:
+					takeAllDifferentVotes = False
+					await message.channel.send("Only one vote will be taken per person.")
+					return
+
 	if focus_channel and voting and message.channel.id == focus_channel:
 		vote = sanitizeVote(message.content) # Get the sanitized vote
 
@@ -87,8 +101,11 @@ async def on_message(message):
 			return
 
 		# Erase previous vote if applicable
-		if didVote(message.author):
-			eraseVote(message.author)
+		if takeAllDifferentVotes:
+			if duplicateVote(message.author, vote):
+				return # Don't add the vote because it's a duplicate
+		elif didVote(message.author):
+			eraseVote(message.author) # Erase previous vote
 
 		# Add vote
 		if vote in votes:
@@ -104,6 +121,12 @@ def hasAuthority(user):
 
 def didVote(user):
 	for vote in votes:
+		if user.id in votes[vote]:
+			return True
+	return False
+
+def duplicateVote(user, vote):
+	if vote in votes:
 		if user.id in votes[vote]:
 			return True
 	return False
